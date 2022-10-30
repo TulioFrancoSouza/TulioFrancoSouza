@@ -6,7 +6,7 @@
   ![image-nix](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
    <div align="center">
-      <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=algolia" />
+      <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=TulioFrancoSouza&count_private=true&show_icons=true&theme=algolia" />
       <img height=160em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=algolia" alt="tuliofrancodesouza" />
    </div>
     
@@ -27,8 +27,7 @@
     <img alt="Nix-Nodejs" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
     <img alt="Nix-Docker" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
     <img alt="Nix-GitLab" width="40" height="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />  
-    <img alt="Nix-Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />  
-    <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/baji.jpeg" />
+    <img alt="Nix-Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
   </div>
    
    <br>
