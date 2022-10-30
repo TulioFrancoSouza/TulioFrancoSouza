@@ -1,5 +1,5 @@
 <main> 
-  <a href="https://github.com/nikolaslopes">
+  <a href="https://github.com/TulioFrancoSouza">
   <h2>Hi, I'm Nick! <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h2>
 <!--   ![image-nix](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263) -->
     
@@ -35,18 +35,15 @@
     
  <div style="display: block">
     <a 
-       href="https://www.linkedin.com/in/nikolaslopes/" target="_blank" rel="noopener">
+       href="https://www.linkedin.com/in/tuliofrancodesouza/" target="_blank" rel="noopener">
        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a 
-       href="mailto: nikolaslopes.dev@gmail.com" target="_blank">
+       href="mailto: tuliofrancodesouza@gmail.com" target="_blank">
        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </div>
       
-   ![Snake animation](https://github.com/nikolaslopes/nikolaslopes/blob/output/github-contribution-grid-snake.svg)
-    
-    
-   .github/workflows/snack.yml
-    
+   ![Snake animation](https://github.com/tuliofrancosouza/tuliofrancosouza/blob/output/github-contribution-grid-snake.svg)
+        
 </main>
