@@ -1,13 +1,13 @@
 <main> 
   <a href="https://github.com/TulioFrancoSouza">
-  <h2>Hi, I'm Nick! <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h2>
+  <h2>Hi, I'm Tulio! <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h2>
 <!--   ![image-nix](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263) -->
     
   ![image-nix](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
    <div align="center">
       <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=algolia" />
-      <img height=160em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=algolia" alt="nikolaslopes" />
+      <img height=160em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=algolia" alt="tuliofrancodesouza" />
    </div>
     
   <div align="center">
