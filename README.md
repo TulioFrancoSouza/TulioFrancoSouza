@@ -1,16 +1,22 @@
-- 🔥 Web Developer & SEM Specialist 
+<main> 
+  <a href="https://github.com/nikolaslopes">
+  <h2>Hi, I'm Nick! <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h2>
+<!--   ![image-nix](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263) -->
+    
+  ![image-nix](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-- 🔭 I’m currently working at [Prospecta](http://www.prospectamarketing.com.br/)
-
-- 📘 I'm currently studying Python.
-
-- 💬 Ask me about **JavaScript, HTML, CSS, React.Js, Node.JS**
-
-- ⚡ Fun fact **I have been in merchant navy for 3 yrs and now I am here 😜**
-
-<br>
-
-<div style="display: inline_block">
+   <div align="center">
+      <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaslopes&count_private=true&show_icons=true&theme=algolia" />
+      <img height=160em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=algolia" alt="nikolaslopes" />
+   </div>
+    
+  <div align="center">
+   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslopes&layout=compact&theme=algolia&hide=html,css,c,svelte,python,shell" />
+  </div>
+     
+  <br>
+   
+  <div style="display: inline_block">
     <img alt="Nix-Js" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
     <img alt="Nix-Ts" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
     <img alt="Nix-Webpack" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" />
@@ -24,32 +30,20 @@
     <img alt="Nix-Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />  
     <img alt="Nix-avatar" width="140" height="140" align="right" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/baji.jpeg" />
   </div>
-
-##📉 &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=TulioFrancoSouza&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulioFrancoSouza&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-
-<br>
-
-##📱 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-francotuliobr-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/francotuliobr" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-francotuliobr-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/tuliofrancodesouza" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-francotuliobr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/francotuliobr" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-francotuliobr-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/francotuliobr" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-francotuliobr-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p>
+   
+   <br>
+    
+ <div style="display: block">
+    <a 
+       href="https://www.linkedin.com/in/nikolaslopes/" target="_blank" rel="noopener">
+       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a 
+       href="mailto: nikolaslopes.dev@gmail.com" target="_blank">
+       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </div>
+      
+   ![Snake animation](https://github.com/nikolaslopes/nikolaslopes/blob/output/github-contribution-grid-snake.svg)
+    
+</main>
