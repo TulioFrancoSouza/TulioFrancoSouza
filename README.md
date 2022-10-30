@@ -30,6 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuliofrancosouza&show_icons=true&locale=en" alt="tuliofrancosouza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuliofrancosouza&" alt="tuliofrancosouza" /></p>
-    
-![Contribution](https://activity-graph.herokuapp.com/graph?username=TulioFrancoSouza&theme=gotham&hide_border=true&area=true)
 
