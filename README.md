@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tulio Franco.</h1>
+<br>
 <h3 align="center">A passionate software engineer from Brazil.</h3>
+<br>
 
 - 🔭 I’m currently working on **Netflix - Next.Js**
 
