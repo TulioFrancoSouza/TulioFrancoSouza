@@ -1,6 +1,6 @@
 <a href="https://github.com/TulioFrancoSozua">
   <br>
-<h1>Hi, I'm Tulio! <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h1>
+<h1>Hi, I'm Tulio! <img src="tic-computer-icon.svg" alt="robot" align="center" height="20"></h1>
   <br>
 <!--   ![image-nix](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263) -->
     
@@ -10,11 +10,7 @@
 
 - 🌱 I’m currently learning **Next.JS and Node.Js.**
 
-- 👨‍💻 All of my projects are available at [github/TulioFrancoSouza](github/TulioFrancoSouza)
-
 - 💬 Ask me about **Marketing, React and Javascript.**
-
-- 📫 How to reach me **tuliofrancodesouza@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tuliofrancodesouza/](https://www.linkedin.com/in/tuliofrancodesouza/)
 
