@@ -25,11 +25,10 @@
 </p>
 
 <h2 align="left">Languages and Tools that I use...</h2>
-  <br>
  
 <div align="left">
   <h3 align="left">I frequently use...</h3>
-  <br>
+
   <p align="left"> 
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -49,7 +48,7 @@
 </p>
   
 <h3 align="left">I use sometimes...</h3>
-  <br>
+ 
   <p align="left">
      
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
