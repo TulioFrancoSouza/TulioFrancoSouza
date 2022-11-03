@@ -1,6 +1,6 @@
 <a href="https://github.com/TulioFrancoSozua">
   <br>
-<h2>Hi, I'm Nick! <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h2>
+<h2>Hi, I'm Tulio! <img src="tic-computer-icon.svg" alt="robot" align="center" height="30"></h2>
   <br>
 <!--   ![image-nix](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263) -->
     
@@ -21,6 +21,9 @@
 - ⚡ Fun fact **I have worked in merchant navy and now I am here.**
 
 <h3 align="left">Connect with me:</h3>
+  <br>
+  <p align="left">You can reach me using... </p>
+  <br>
 <p align="left">
 <a href="https://linkedin.com/in/tuliofrancodesouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuliofrancodesouza" height="30" width="40" /></a>
 <a href="https://fb.com/francotuliobr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="francotuliobr" height="30" width="40" /></a>
