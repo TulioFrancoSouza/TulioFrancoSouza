@@ -6,9 +6,9 @@
     
   ![image-nix](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-- 🔭 I’m currently working at **Watermelon Technology**
+- 🔭 I’m currently working at **Watermelon Technology.**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++.**
 
 - 💬 Ask me about **SEO, Javascript, React, Node, and Express.**
 
