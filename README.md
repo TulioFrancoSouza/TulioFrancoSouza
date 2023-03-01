@@ -6,22 +6,22 @@
     
   ![image-nix](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-- 🔭 I’m currently working on **Netflix - Next.Js**
+- 🔭 I’m currently working at **Watermelon Technology**
 
-- 🌱 I’m currently learning **Next.JS and Node.Js.**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **Marketing, React and Javascript.**
+- 💬 Ask me about **SEO, Javascript, React, Node, and Express.**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tuliofrancodesouza/](https://www.linkedin.com/in/tuliofrancodesouza/)
 
-- ⚡ Fun fact **I have worked in merchant navy and now I am here.**
+- ⚡ Fun fact **I fall in love with technology amost four years ago, so I changed my entire career.**
 
 <h2 align="left">You can reach me using...</h2>
   <br>
 <p align="left">
 <a href="https://linkedin.com/in/tuliofrancodesouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuliofrancodesouza" height="30" width="40" /></a>
 <a href="https://fb.com/francotuliobr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="francotuliobr" height="30" width="40" /></a>
-<a href="https://instagram.com/francotuliobr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="francotuliobr" height="30" width="40" /></a>
+<a href="https://instagram.com/tuliofrancobr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="francotuliobr" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools that I use...</h2>
